@@ -1,0 +1,16 @@
+<resources>
+
+        <string name="app_name">Quiz App</string>
+        <string name="app_logo">Quiz Logo</string>
+        <string name="welcome_message">Welcome to the Quiz!</string>
+        <string name="enter_your_name">Enter Your Name</string>
+        <string name="start_quiz">Start Quiz</string>
+        <string name="hello_user">Hello, User!</string>
+        <string name="next_question">Next Question</string>
+        <string name="congratulations">Congratulations!</string>
+        <string name="your_score">Your Score</string>
+        <string name="finish">Finish</string>
+        <string name="option_1">Option 1</string>
+        <string name="option_2">Option 2</string>
+        <string name="option_3">Option 3</string>
+</resources>
