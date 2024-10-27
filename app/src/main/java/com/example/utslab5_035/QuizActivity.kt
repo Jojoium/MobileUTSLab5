@@ -11,9 +11,9 @@ class QuizActivity : AppCompatActivity() {
     private var currentQuestionIndex = 0
 
     private val questions = listOf(
-        Question("Apakah ibukota Indonesia?", "Jakarta", "Bandung", "Surabaya", "Jakarta"),
-        Question("Siapa presiden pertama Indonesia?", "Soekarno", "Soeharto", "Habibie", "Soekarno"),
-        Question("Berapa warna dalam bendera Indonesia?", "Satu", "Dua", "Tiga", "Dua")
+        Question("Bahasa pemrograman populer untuk mengembangkan game engine Unity adalah?", "C#", "Python", "Java", "C#"),
+        Question("Dalam pengembangan game, istilah (hitbox) merujuk pada...", "Waktu yang diperlukan untuk memuat game.", "Ukuran layar game.", "Area tak terlihat di sekitar objek yang mendeteksi tabrakan.", "Area tak terlihat di sekitar objek yang mendeteksi tabrakan."),
+        Question("Apa fungsi dari physics engine dalam sebuah game?", "Mengatur tampilan visual", "Memproses suara dan efek musik", "Mensimulasikan hukum fisika dalam dunia game", "Mensimulasikan hukum fisika dalam dunia game")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
