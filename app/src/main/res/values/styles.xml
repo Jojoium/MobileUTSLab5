@@ -9,6 +9,6 @@
         <item name="colorSecondary">@color/buttonColor</item>
         <item name="android:colorBackground">@color/backgroundColor</item>
         <item name="android:textColorPrimary">@color/primaryTextColor</item>
-        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+        <item name="android:textColorSecondary">@color/black</item>
     </style>
 </resources>

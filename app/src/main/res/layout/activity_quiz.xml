@@ -36,25 +36,25 @@
             android:id="@+id/radioOption1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/radio_button_selector"
             android:text="@string/option_1"
-            android:textColor="@color/secondaryTextColor"
-            android:background="@drawable/radio_button_selector" />
+            android:textColor="@color/black" />
 
         <RadioButton
             android:id="@+id/radioOption2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/radio_button_selector"
             android:text="@string/option_2"
-            android:textColor="@color/secondaryTextColor"
-            android:background="@drawable/radio_button_selector" />
+            android:textColor="@color/black" />
 
         <RadioButton
             android:id="@+id/radioOption3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/radio_button_selector"
             android:text="@string/option_3"
-            android:textColor="@color/secondaryTextColor"
-            android:background="@drawable/radio_button_selector" />
+            android:textColor="@color/black" />
     </RadioGroup>
 
     <Button

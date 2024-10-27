@@ -7,6 +7,6 @@
     <color name="secondaryTextColor">#757575</color>
     <color name="secondaryColor">#E0E0E0</color>
     <color name="buttonColor">#FF9800</color>
-    <color name="primaryColor">#FD651A</color> <!-- Define primary color here -->
-    <color name="primaryColorVariant">#FD651A</color> <!-- Define primary color variant here -->
+    <color name="primaryColor">#FD651A</color>
+    <color name="primaryColorVariant">#FD651A</color>
 </resources>
